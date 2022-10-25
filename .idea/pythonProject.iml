@@ -7,5 +7,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="DataVisualize" />
+    <orderEntry type="module" module-name="Dice" />
   </component>
 </module>
